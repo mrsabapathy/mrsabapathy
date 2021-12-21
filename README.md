@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hi! I'm Rathna. I'm working as an IT Production Support Engineer. My skill sets are Bash shell scripting, Kubernetes, Docker, Jenkins and Ansible. I love to create IT automation scripts and tools that can save lot of time and effort and be more efficient. I'm currently learning Web development and Azure administration. 
 
 <!--
 **mrsabapathy/mrsabapathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
